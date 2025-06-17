@@ -13,7 +13,7 @@
 
 ```bash
 python3 ehubburner.py --target https://ehubmid.com --modules all
-
+```
 ### Ethical Notice ⚠️
 
 This tool is intended **only for authorized use** on assets you own or have permission to test. Illegal use is strictly prohibited.
